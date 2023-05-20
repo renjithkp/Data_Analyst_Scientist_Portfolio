@@ -1,4 +1,4 @@
-# Data_Analyst_Scientist_Portfolio
+# Renjith K P - Data_Analyst_Scientist_Portfolio
 Hello there! 
 Welcome to my GitHub profile. My name is Renjith K P, and I am a data analyst and scientist with a passion for leveraging data to drive insights and make informed business decisions. I have a diverse educational background and several years of experience working with various companies. Allow me to share a bit more about myself.
 
@@ -29,7 +29,9 @@ Feel free to explore the repositories, where you will find detailed documentatio
 If you would like to get in touch with me or discuss any potential collaboration opportunities, please feel free to reach out.
 
 Email : renjithkp1@gmail.com
+
 Phone : 9840174276
-My CV : 
+
+My [CV](https://github.com/renjithkp/Data_Analyst_Scientist_Portfolio/blob/main/Renjith%20KP%20CV.pdf)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
