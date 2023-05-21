@@ -35,3 +35,21 @@ Phone : 9840174276
 My [CV](https://github.com/renjithkp/Data_Analyst_Scientist_Portfolio/blob/main/Renjith%20KP%20CV.pdf)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
+
+
+<h2>Portfolio Projects</h2>
+
+In this section I have listed data analytics projects briefly describing the technology used to solve cases.
+
+<h3>E-Commerce Revenue Management</h3>
+
+**Problem Statement :** I have been given the role of a business analyst for an E-Commerce company and have been asked to prepare a basic report on the data.  
+**Solution :** Solution of a business problem to identify which region has maximum sales volume, which type of products are sold the most, how much revenue the E-Commerce Company makes, and the brands that use its portal.
+
+**Skills :** Data cleaning, Data analysis, Descriptive statistics, Central limit theorem, Data visualization.
+
+**Technology :** Python, Pandas, Numpy, Seaborn, Matplotlib.
+
+**Code :** [E-Commerce Revenue Management.ipynb](https://github.com/renjithkp/Data_Analysis_Projects/blob/main/E-Commerce%20Revenue%20Management/E-Commerce%20Revenue%20Management.ipynb)
+
+**Presentation :** [E-Commerce Revenue Management.pdf](https://github.com/renjithkp/Data_Analysis_Projects/blob/main/E-Commerce%20Revenue%20Management/E-Commerce%20Revenue%20Management.pdf)
