@@ -53,3 +53,15 @@ In this section I have listed data analytics projects briefly describing the tec
 **Code :** [E-Commerce Revenue Management.ipynb](https://github.com/renjithkp/Data_Analysis_Projects/blob/main/E-Commerce%20Revenue%20Management/E-Commerce%20Revenue%20Management.ipynb)
 
 **Presentation :** [E-Commerce Revenue Management.pdf](https://github.com/renjithkp/Data_Analysis_Projects/blob/main/E-Commerce%20Revenue%20Management/E-Commerce%20Revenue%20Management.pdf)
+
+<h3>Election Exit Poll Prediction Using Machine Learning</h3>
+
+**Problem Statement :**  I have hired by one of the leading news channels CNBE who wants to analyze recent elections. This survey was conducted on 1525 voters with 9 variables. You have to build a model, to predict which party a voter will vote for on the basis of the given information, to create an exit poll that will help in predicting overall win and seats covered by a particular party.
+
+**Skills :** Data cleaning, Data analysis, Descriptive statistics, Central limit theorem, Data visualization,Support Vector Machine - K Nearest Neighbour - Naive Bayes,Ensemble Techniques,Logistic Regression - Linear Discriminant Analysis,Machine Learning
+
+**Technology :** Python, Pandas, Numpy, Seaborn, Matplotlib,sklearn,scipy-stats.
+
+**Code :** [Machine_Learning_Project.ipynb](https://github.com/renjithkp/Data_Analysis_Projects/blob/main/Election%20Exit%20Poll%20Prediction%20Using%20Machine%20Learning/Machine_Learning_Project.ipynb)
+
+**Presentation :** [Machine_Learning_Project_Report.pdf](https://github.com/renjithkp/Data_Analysis_Projects/blob/main/Election%20Exit%20Poll%20Prediction%20Using%20Machine%20Learning/Machine_Learning_Project_Report.pdf)
